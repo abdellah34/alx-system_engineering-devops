@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v ../*.html ../../folder_destinatio
+cp -u *.html ..
