@@ -1,3 +1,2 @@
 #!/bin/bash
 cp -v ../*.html ../../folder_destinatio
-
